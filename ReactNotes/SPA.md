@@ -1,0 +1,3 @@
+Single Page Application,  or **SPA**, is a model where you just have one page, usually **index.html**, and that page downloads the front-end application code for the site to the browser. React uses the SPA model. 
+-   This model is in contrast to the traditional multi-page site model that uses a different HTML page for each view, where switching between views means downloading more files, often containing repetitive code such as the header and footer. In the SPA model, the application code handles re-rendering the view and making server requests only when necessary. It also greatly reduces duplicating code, so that updates are easier and more scalable. 
+-   This video outlines the general pros and cons of SPAs.
