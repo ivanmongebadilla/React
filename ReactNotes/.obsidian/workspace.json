@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactRouter.md",
+                "file": "ReactRouter (Hooks).md",
                 "mode": "source",
                 "source": false
               }
@@ -37,26 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactRouter.md",
+                "file": "ReactRouter (Hooks).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f415c1d6217bc8ea",
+            "id": "5551f65802450529",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Array Methods.md",
+                "file": "SPA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8519a106b6acff77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReactRouter (Hooks).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Array Methods.md",
+                "file": "ReactRouter (Hooks).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Array Methods.md",
+                "file": "ReactRouter (Hooks).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Array Methods.md"
+                "file": "ReactRouter (Hooks).md"
               }
             }
           }
@@ -173,10 +185,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f415c1d6217bc8ea",
+  "active": "8519a106b6acff77",
   "lastOpenFiles": [
-    "ReactRouter.md",
+    "JavaScript Ternary Operator.md",
+    "SPA.md",
     "Set up ReactRouter.md",
-    "SPA.md"
+    "Array Methods.md",
+    "Pasted image 20221208113448.png",
+    "React.md",
+    "ReactRouter (Hooks).md"
   ]
 }
