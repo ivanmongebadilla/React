@@ -1,0 +1,7 @@
+-   **React Spring** is an animation library for React that gives us a **hooks-based declarative API** for creating custom physics-based animations.
+-   The library is built around the model of a spring, which leads to some really nice, life-like animations.
+-   React Spring animations are created to be interruptible, concurrent, and composable. 
+    -   **Interruptible means that they can be stopped or paused at any point.  
+    -   Concurrent means that multiple animations can be run at the same time.
+    -   Composable means they can be combined together to create more complex animations.
+-   To use React Spring, we wrap React elements using the **animated** function from the **React Spring** library. Then, we pass a prop to it whose value is an object returned from a call to the **useSpring** hook [[ReactRouter (Hooks)]].

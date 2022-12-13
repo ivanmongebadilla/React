@@ -8,91 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "772aa5933d985171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4c1e0720a816f7a",
+            "id": "0ad3ee7257223ff0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ReactRouter (Hooks).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8710811354a397a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReactRouter (Hooks).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5551f65802450529",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReactRouter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22dcc0fbbe5e4eef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Array Methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dd9d083a95c66d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "046af39c7c3fd017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Browser Router.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Browser Router.md",
+                "file": "ReactRouter (Hooks).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Browser Router.md",
+                "file": "ReactRouter (Hooks).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Browser Router.md"
+                "file": "ReactRouter (Hooks).md"
               }
             }
           }
@@ -209,16 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "046af39c7c3fd017",
+  "active": "0ad3ee7257223ff0",
   "lastOpenFiles": [
-    "Git.md",
-    "Array Methods.md",
-    "Destructuring.md",
     "ReactRouter.md",
-    "Set up ReactRouter.md",
-    "Array Methods.md",
-    "Pasted image 20221208113448.png",
+    "React Spring.md",
+    "ReactRouter (Hooks).md",
     "React.md",
-    "ReactRouter (Hooks).md"
+    "React Props.md",
+    "React Components.md",
+    "Set up ReactRouter.md",
+    "SPA.md",
+    "Pasted image 20221208113448.png",
+    "JavaScript Ternary Operator.md"
   ]
 }
