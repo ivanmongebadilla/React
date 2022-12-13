@@ -6,3 +6,4 @@ Most used hooks:
 - useEffect() 
 - useSpring() -   **useSpring** is a hook provided by React Spring to generate spring-based animation styles.
 	- useSpring configs https://www.geeksforgeeks.org/react-spring-configs/
+- useRef() -   The **useRef** hook is used to create a reference. A reference is a persisted, mutable object with a current property.

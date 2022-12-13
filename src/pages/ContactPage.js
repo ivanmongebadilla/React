@@ -1,5 +1,11 @@
+import { Container, Col, Row } from 'reactstrap';
+
 const ContactPage = () => {
-    return <div>ContactPage</div>;
+    return (
+        <Container>
+            <SubHeader current='Contact Us' />
+        </Container>
+    );
 };
 
 export default ContactPage;
