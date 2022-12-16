@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ad3ee7257223ff0",
+            "id": "772aa5933d985171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4c1e0720a816f7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +32,111 @@
             }
           },
           {
-            "id": "2b1a0a9081718ae5",
+            "id": "8710811354a397a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computed Property Names.md",
+                "file": "ReactRouter (Hooks).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "26c02daae016b56c",
+            "id": "5551f65802450529",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "22dcc0fbbe5e4eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Array Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dd9d083a95c66d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "046af39c7c3fd017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ReactRouter (Hooks).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c88ff84b549415a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Controlled Forms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06bc3f24ba27fa32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uncontrolled Forms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d94204da46a09756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a218161928f83976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -110,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReactRouter (Hooks).md",
+                "file": "Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReactRouter (Hooks).md",
+                "file": "Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReactRouter (Hooks).md"
+                "file": "Questions.md"
               }
             }
           }
@@ -161,17 +253,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "26c02daae016b56c",
+  "active": "a218161928f83976",
   "lastOpenFiles": [
-    "Spread Syntax.md",
-    "Computed Property Names.md",
+    "Formik.md",
+    "Uncontrolled Forms.md",
+    "Controlled Forms.md",
     "ReactRouter (Hooks).md",
-    "ReactRouter.md",
-    "React Spring.md",
-    "React.md",
-    "React Props.md",
-    "React Components.md",
     "Set up ReactRouter.md",
-    "SPA.md"
+    "JavaScript Ternary Operator.md",
+    "Pasted image 20221208113448.png",
+    "React.md",
+    "Array Methods.md",
+    "Git.md"
   ]
 }
