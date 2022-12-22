@@ -4,139 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "0bbefcf60cfbcf5d",
+        "id": "240024db153dcc14",
         "type": "tabs",
         "children": [
           {
-            "id": "772aa5933d985171",
+            "id": "8b2a6e78293b358b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPA.md",
+                "file": "MVC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f4c1e0720a816f7a",
+            "id": "e16a69945d0e0fec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b08c8d7d00d2c444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c25cb1847eb76222",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ReactRouter (Hooks).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8710811354a397a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReactRouter (Hooks).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5551f65802450529",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "22dcc0fbbe5e4eef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Array Methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dd9d083a95c66d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "046af39c7c3fd017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReactRouter (Hooks).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c88ff84b549415a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Controlled Forms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06bc3f24ba27fa32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uncontrolled Forms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d94204da46a09756",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a218161928f83976",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions.md",
+                "file": "ReactRouter (Hooks).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions.md",
+                "file": "ReactRouter (Hooks).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions.md"
+                "file": "ReactRouter (Hooks).md"
               }
             }
           }
@@ -253,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a218161928f83976",
+  "active": "c25cb1847eb76222",
   "lastOpenFiles": [
-    "Formik.md",
-    "Uncontrolled Forms.md",
-    "Controlled Forms.md",
+    "createSlice().md",
     "ReactRouter (Hooks).md",
-    "Set up ReactRouter.md",
-    "JavaScript Ternary Operator.md",
-    "Pasted image 20221208113448.png",
+    "Redux.md",
+    "Reducers.md",
     "React.md",
+    "Spread Syntax.md",
     "Array Methods.md",
-    "Git.md"
+    "Flux.md",
+    "MVC.md",
+    "Questions.md"
   ]
 }
