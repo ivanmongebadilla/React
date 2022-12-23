@@ -8,4 +8,5 @@ Most used hooks:
 	- useSpring configs https://www.geeksforgeeks.org/react-spring-configs/
 - useRef() -   The **useRef** hook is used to create a reference. A reference is a persisted, mutable object with a current property.
 - useSelector() recives a function
-- useDispatch()
+- createSlice() 
+- useDispatch()   In **Redux**, if we want to modify the state that is maintained by the **store**, we use the **dispatch()** method of the **store**. it returns a function
